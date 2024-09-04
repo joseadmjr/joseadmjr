@@ -1,6 +1,6 @@
 
 ### Hello World, I'm José Jr👨🏻‍💻
-Great to meet you! I'm José Junior, i have a degree in IT management.
+Great to meet you! I'm José Junior, I have a degree in IT management.
 
 ### Tech Stack 💻
 [![CursoLinux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://4linux.com.br/)
